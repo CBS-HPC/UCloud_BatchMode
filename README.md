@@ -2,4 +2,4 @@
 tutorials how to run Batch mode on UCloud
 
 
-[Stata]()
+[Stata](https://github.com/CBS-HPC/UCloud_BatchMode/blob/main/Stata.ipynb)
