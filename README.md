@@ -11,4 +11,4 @@ Many applications already have a "Batch Processing" UCloud functionality:
  
 Application that currently does not have this UCloud functionality (e.g. Stata) can instead run batch mode computations using the terminal app. See the following tutorials:
 
-[Stata](https://github.com/CBS-HPC/UCloud_BatchMode/blob/main/Stata.ipynb)
+- [Stata](https://github.com/CBS-HPC/UCloud_BatchMode/blob/main/Stata.ipynb)
